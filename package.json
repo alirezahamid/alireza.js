@@ -1,0 +1,32 @@
+{
+  "name": "alireza.js",
+  "version": "1.0.3",
+  "description": "alireza.js - When JavaScript meets fun and passion! Not just another JS library, but Alireza's digital signature. Install now to get a dose of Alireza's humor and a direct line to his social media universe. Warning: May contain traces of awesomeness and unexpected chuckles!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "bin": {
+    "alireza.js": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alirezahamid/alireza.js.git"
+  },
+  "keywords": [
+    "alireza",
+    "alireza.js",
+    "js"
+  ],
+  "author": "Alireza Hamid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alirezahamid/alireza.js/issues"
+  },
+  "homepage": "https://github.com/alirezahamid/alireza.js#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "figlet": "^1.6.0"
+  }
+}
